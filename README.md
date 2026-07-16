@@ -17,18 +17,6 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 
 </div>
 
----
-
-# 🚀 Sobre mim
-
-- 💻 Desenvolvedor Full Stack
-- 🌱 Sempre estudando novas tecnologias
-- 🎯 Focado em criar aplicações performáticas e com excelente experiência do usuário
-- 📚 Atualmente aprofundando conhecimentos em React, Node.js e TypeScript
-- ⚡ Transformando ideias em projetos reais
-
----
-
 # 🛠️ Tecnologias
 
 ### Front-End
@@ -57,34 +45,6 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 
 ---
 
-# 📂 Projetos em Destaque
-
-### 🛒 ShopSphere
-E-commerce Full Stack desenvolvido com React, TypeScript, Express e Prisma.
-
----
-
-### ⚒️ Forja
-Projeto moderno focado em desenvolvimento web.
-
----
-
-### 📋 Todo List React
-Aplicação para gerenciamento de tarefas utilizando React e Local Storage.
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caiodiniz-developer&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiniz-developer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Streak
 
@@ -93,24 +53,6 @@ Aplicação para gerenciamento de tarefas utilizando React e Local Storage.
 <img src="https://streak-stats.demolab.com?user=caiodiniz-developer&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodiniz-developer&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📫 Contato
-
-- 📧 cvdinizramos@gmail.com
-- 💼 https://www.linkedin.com/in/caiodinizdev/
-- 🌐 https://www.caiodiniz.dev.br/
 
 ---
 
