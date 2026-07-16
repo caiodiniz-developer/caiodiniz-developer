@@ -17,34 +17,26 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 
 </div>
 
+---
+
 # 🛠️ Tecnologias
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-</p>
-
-### Back-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,sqlite,mysql,git,github,vscode,npm,figma" />
 </p>
 
 ---
 
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caiodiniz-developer&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiniz-developer&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 🔥 Streak
 
@@ -55,6 +47,15 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 </div>
 
 ---
+
+# 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodiniz-developer&theme=tokyo-night"/>
+
+</div>
+
 
 <div align="center">
 
