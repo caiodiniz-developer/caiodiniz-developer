@@ -26,16 +26,6 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 
 ---
 
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=caiodiniz-developer&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribuições
 
 <div align="center">
