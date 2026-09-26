@@ -20,6 +20,7 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 ---
 
 # 🛠️ Tecnologias
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,sqlite,mysql,git,github,vscode,npm,figma" />
 </p>
@@ -28,13 +29,34 @@ Apaixonado por tecnologia e desenvolvimento de software, criando aplicações mo
 
 # 📊 GitHub Stats
 
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=caiodiniz-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiniz-developer&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
+
+---
+
 # 📈 Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiodiniz-developer&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=caiodiniz-developer&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+/>
 
 </div>
+
+---
 
 <div align="center">
 
