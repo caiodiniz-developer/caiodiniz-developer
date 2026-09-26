@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/caiodiniz-developer">
-<img src="https://img.shields.io/badge/GitHub-caiodiniz--developer-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-caiodiniz--developer-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -26,9 +26,7 @@
 
 # ⚡ CAIO'S POKÉMON TEAM
 
-### Choose your starter. Build your team. Ship your project.
-
-<br>
+### Choose your team. Build your project. Level up.
 
 <table>
 <tr>
@@ -39,9 +37,9 @@
 
 ### 🐉 RAYQUAZA
 
-**The Architect**
+**Backend / Architecture**
 
-`Node.js` • `APIs` • `Backend`
+`Node.js` • `APIs`
 
 </td>
 
@@ -51,9 +49,9 @@
 
 ### 🌊 GRENINJA
 
-**The Front-End**
+**Frontend**
 
-`React` • `TypeScript` • `UI`
+`React` • `TypeScript`
 
 </td>
 
@@ -63,9 +61,9 @@
 
 ### ☄️ ETERNATUS
 
-**The Database**
+**Database / Data**
 
-`PostgreSQL` • `Prisma` • `Data`
+`PostgreSQL` • `Prisma`
 
 </td>
 
@@ -80,29 +78,29 @@
 
 ```ts
 const caio = {
+  name: "Caio Diniz",
+
   role: "Full Stack Developer",
 
-  stack: {
-    frontend: [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Vite"
-    ],
+  frontend: [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Vite"
+  ],
 
-    backend: [
-      "Node.js",
-      "Express",
-      "REST APIs"
-    ],
+  backend: [
+    "Node.js",
+    "Express",
+    "REST APIs"
+  ],
 
-    database: [
-      "PostgreSQL",
-      "Prisma",
-      "MySQL",
-      "SQLite"
-    ]
-  },
+  database: [
+    "PostgreSQL",
+    "Prisma",
+    "MySQL",
+    "SQLite"
+  ],
 
   tools: [
     "Git",
@@ -111,10 +109,12 @@ const caio = {
     "Figma"
   ],
 
-  currentlyLearning: [
+  focus: [
     "Software Architecture",
-    "Testing",
-    "Docker",
-    "Advanced Backend"
-  ]
+    "Performance",
+    "Security",
+    "UX"
+  ],
+
+  philosophy: "Learn by building."
 };
