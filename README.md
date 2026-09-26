@@ -1,10 +1,10 @@
-# 👨‍💻 Caio Diniz
+# CAIO DINIZ
 
 <div align="center">
 
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+TypeScript+%2B+Node.js;Building+modern+web+applications" />
 
-React • TypeScript • Node.js • PostgreSQL
+<br>
 
 <a href="https://github.com/caiodiniz-developer">
 <img src="https://img.shields.io/badge/GitHub-caiodiniz--developer-181717?style=for-the-badge&logo=github" />
@@ -18,7 +18,7 @@ React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -28,7 +28,7 @@ React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -40,7 +40,7 @@ React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,17 +50,45 @@ React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-## 🎮 Pokémon Team
+## Pokémon Team
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="120"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="120"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png" width="120"/>
+<table>
+<tr>
 
-<br>
+<td align="center" width="33%">
 
-🐉 **Rayquaza** • 🌊 **Greninja** • 🐲 **Eternatus**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="150"/>
+
+### Rayquaza
+
+`#384`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="150"/>
+
+### Greninja
+
+`#658`
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png" width="150"/>
+
+### Eternatus
+
+`#890`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -68,7 +96,9 @@ React • TypeScript • Node.js • PostgreSQL
 
 <div align="center">
 
-### 🚀 Building. Learning. Evolving.
+### Building. Learning. Evolving.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=caiodiniz-developer&style=for-the-badge&color=9333EA" />
 
