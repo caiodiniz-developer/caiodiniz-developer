@@ -118,3 +118,44 @@ const caio = {
 
   philosophy: "Learn by building."
 };
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodiniz-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiniz-developer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=caiodiniz-developer&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodiniz-developer&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=caiodiniz-developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="95%" />
+
+</div>
+
